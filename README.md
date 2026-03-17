@@ -1,3 +1,4 @@
-# lectures-and-notes
-Repo with lectures and notes from my classes.
+# Lectures and Notes
+
+Repo with lectures and notes from my classes.  
 Please visit the [contents hub](https://github.com/t3n0/contents-hub) or my [main page](https://github.com/t3n0) for more info.
